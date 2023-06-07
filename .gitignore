@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# git files
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!gen_selfsign_chain.sh
